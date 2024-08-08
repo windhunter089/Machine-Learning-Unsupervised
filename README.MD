@@ -82,15 +82,21 @@ The project is done in Python 3.8 with the following libraries:
 - Improved clustering performance with K-Means
 - Best dimensionality reduction technique in this study
 
+![PCA-wine](image/fig%2012%20PCA%20wine.png)
+
 #### Independent Component Analysis (ICA)
 - 5 Independent Components for Diabetes, 7 for Wine
 - Acceptable clustering performance with K-Means on Wine dataset, but not on Diabetes
 - EM performed poorly on ICA-transformed data
 
+![ICA-wine](image/fig16%20ICA%20wine.png)
+
 #### Randomized Projection (RP)
 - 4 components for both datasets
 - Surprisingly good clustering performance with K-Means
 - Potential for further research due to promising results
+
+![RP-wine](image/fig18%20RP%20Diabetes.png)
 
 ### Neural Network on Dimensionality Reduced Data
 - Faster convergence and fewer epochs required
