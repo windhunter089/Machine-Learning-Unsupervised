@@ -82,7 +82,7 @@ The project is done in Python 3.8 with the following libraries:
 - Improved clustering performance with K-Means
 - Best dimensionality reduction technique in this study
 
-![PCA-wine](image/fig%2012%20PCA%20wine.png)
+![PCA-wine](image/fig12%20PCA%20wine.png)
 
 #### Independent Component Analysis (ICA)
 - 5 Independent Components for Diabetes, 7 for Wine
